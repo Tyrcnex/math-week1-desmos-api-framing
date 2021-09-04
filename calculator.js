@@ -1,8 +1,8 @@
 const elt = document.getElementById('calculator');
 const calculator = Desmos.GraphingCalculator(elt);
 var counter = 0;
-var frames = 2;
-var fps = 1;
+var frames = 17;
+var fps = 2;
 var maxEquations = 0;
 
 var equations = [];
